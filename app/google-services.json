@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "161064311902",
+    "project_id": "buku-keuangan-ayam-guling",
+    "storage_bucket": "buku-keuangan-ayam-guling.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161064311902:android:2327f07e1782db809068cf",
+        "android_client_info": {
+          "package_name": "com.gudangsimulasi.ayamgulingbandaaceh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161064311902-pfktqbe4776hvljtsn9j7lvjm8gpf8it.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHUTaXJN50GLeyMLLps8fyxnsxlUm9AVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161064311902-pfktqbe4776hvljtsn9j7lvjm8gpf8it.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
