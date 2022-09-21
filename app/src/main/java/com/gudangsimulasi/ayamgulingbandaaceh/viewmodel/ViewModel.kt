@@ -28,7 +28,7 @@ import kotlin.collections.ArrayList
 class ViewModel : ViewModel() {
 
     private val myRef =
-        Firebase.database("https://buku-keuangan-ayam-guling-default-rtdb.asia-southeast1.firebasedatabase.app").reference
+        Firebase.database("my_database_in_firebase").reference
     private val _dataLive = MutableLiveData<ArrayList<DataModelList>>()
     private val _dataNameLive = MutableLiveData<ArrayList<String>>()
     var dataList: LiveData<ArrayList<DataModelList>> = _dataLive
